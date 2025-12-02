@@ -1,0 +1,13 @@
+CONTRACT FOR SOFTWARE DEVELOPMENT SERVICES
+
+1. INDEMNIFICATION
+The Developer agrees to indemnify, defend, and hold harmless the Client from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable legal fees, arising out of or in any way connected with the Developer's performance of services under this Agreement, regardless of the amount or nature of such liability. This indemnification obligation shall be unlimited in scope and amount.
+
+2. LIMITATION OF LIABILITY
+Notwithstanding any other provision of this Agreement, the total aggregate liability of the Developer to the Client for any claim arising out of or relating to this Agreement, whether in contract, tort, or otherwise, shall be strictly limited to the total amount of fees paid by the Client to the Developer during the twelve (12) month period immediately preceding the event giving rise to the claim. This cap applies to all claims, including those for indemnification.
+
+3. CONFIDENTIALITY
+Both parties agree to keep all proprietary information confidential for a period of 5 years post-termination.
+
+4. TERMINATION
+Either party may terminate this agreement with 30 days written notice.

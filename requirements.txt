@@ -1,0 +1,24 @@
+# Core Dependencies
+langgraph>=0.0.10
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+
+# Database
+neo4j>=5.14.0
+lancedb>=0.5.0
+
+# Configuration & Validation
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tiktoken>=0.5.0
+
+# Development (optional - install with: pip install -e ".[dev]")
+# pytest>=7.4.0
+# pytest-cov>=4.1.0
+# mypy>=1.5.0
+# ruff>=0.1.0
+# black>=23.0.0
