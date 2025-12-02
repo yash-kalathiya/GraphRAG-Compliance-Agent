@@ -46,7 +46,7 @@ VALID_RELATIONSHIP_TYPES = frozenset({
 })
 
 # Regex for valid identifiers (alphanumeric + underscore)
-IDENTIFIER_PATTERN = re.compile(r"^[a-zA-Z_][a-zA-Z0-9_]*$")
+IDENTIFIER_PATTERN = re.compile(r"^[a-zA-Z_][a-zA-Z0-9_-]*$")
 
 
 def retry_on_transient(

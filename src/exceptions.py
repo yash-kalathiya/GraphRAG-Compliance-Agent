@@ -95,6 +95,8 @@ class ValidationError(GraphRAGException):
         field: Optional[str] = None,
         value: Optional[str] = None,
     ) -> None:
+        self.field = field
+        self.value = value
         details = {}
         if field:
             details["field"] = field
